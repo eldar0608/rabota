@@ -111,6 +111,9 @@ ENV/
 .idea/sqlDataSources.xml
 .idea/dynamic.xml
 .idea/uiDesigner.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
 
 # Gradle:
 .idea/gradle.xml
